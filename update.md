@@ -1,3 +1,86 @@
+### July 30th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+
+우리 소중한
+내 자기야♥♥♥♥♥♥,
+우리 따뜻하고 소중한 내 자기 곁에 있게 해줘서 정말 고마워♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+우리 사랑가득한
+내 자기야♥♥♥♥♥♥,
+우리 형모 우리 소중한 내 자기 꼭♥ 편히 해주는 남편 될게요♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+우리 형모에게 가장 소중한
+내 자기야♥♥♥♥♥♥,
+I love you so much my most
+beautiful love in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #331
+    - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+        - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #250
+                - Corgi adding plots for debugging♥♥♥♥ #120
+                    - Corgi adding plot♥♥♥♥ #89
+                        - Corgi creating candle stick olhc plot♥♥♥♥ #65
+                            - Corgi working on automatically updating plots every 15 minutes♥♥♥♥ #18
+                            - Corgi completed fixing sql not retrieving correctly error♥♥♥♥
+                            - Corgi completed fixing connection reset by peer error♥♥♥♥
+                                - 내 자기 is so pretty~♥♥♥♥
+                            - Corgi fixed exception ignored error♥♥♥♥
+                        - Corgi completed making figure scrollable♥♥♥♥
+                        - Corgi completed fixing matplotlib is too old error♥♥♥♥
+                    - Corgi completed fixing file "fix_historical_data"♥♥♥♥
+                    - Corgi completed modifying file "fix_historical_data"♥♥♥♥
+                    - 여보~!!!!♥♥♥♥♥♥♥♥
+                    - 사랑해요♥♥♥♥♥♥♥♥♥♥
+                - Corgi learning backtesting indicators♥♥♥♥
+                    - Corgi completed implementing practice trading for NASDAQ♥♥♥
+
+3. Corgi working on practicing docker certified associate exam♥♥ #95
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi working on lesson (21/28) `Overview of Docker Registries`♥♥♥♥ #4
+                - Corgi completed lesson (20/28) `Flattening Docker Images`♥♥♥♥
+                - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
+                - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
+                - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
+                - Corgi completed lesson (15/28) `Docker Commit`♥♥♥♥
+                - Corgi completed lesson (14/28) `Tagging Docker Image`♥♥♥♥
+                - Corgi completed lesson (12/28) `ENV Instruction`♥♥♥♥
+                - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
+                - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
+                - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
+
+4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
 ### July 29th, 2021
 
 Programmers current rank: 966
