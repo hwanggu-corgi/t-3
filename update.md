@@ -32,12 +32,14 @@ love in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #415
-    - Corgi learning how to create algo trading strategy♥♥ #4
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #416
+    - Corgi learning how to create algo trading strategy♥♥ #5
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning♥♥♥♥
+                - Corgi learning `Installing Python and Jupyter Notebook`♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
+
     - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
