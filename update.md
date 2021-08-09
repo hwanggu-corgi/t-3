@@ -46,6 +46,7 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
                 - Corgi learning week 2 of the course♥♥♥♥
                     - Corgi learning `2.3 Models of Distributions` in week 2♥♥♥♥ #8
                         - Corgi working on labs♥♥♥♥
+                            - 여보♥♥ 사랑해요♥♥♥♥♥♥
                     - Corgi completed learning `2.2 Frequency and Distributions` in week 2♥♥♥♥
                     - Corgi completed learning `2.1 Outcomes and Random Variables` in week 2♥♥♥♥
                 - Corgi completed learning week 1 of the course♥♥♥♥
