@@ -36,15 +36,15 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #470
-    - Corgi learning how to create algo trading strategy♥♥ #59
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #471
+    - Corgi learning how to create algo trading strategy♥♥ #60
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning♥♥♥♥
                 - Corgi completed learning `Installing Python and Jupyter Notebook`♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
                 - Corgi learning week 2 of the course♥♥♥♥
-                    - Corgi learning `2.3 Models of Distributions` in week 2♥♥♥♥ #8
+                    - Corgi learning `2.3 Models of Distributions` in week 2♥♥♥♥ #9
                         - Corgi working on labs♥♥♥♥
                             - 여보♥♥ 사랑해요♥♥♥♥♥♥
                     - Corgi completed learning `2.2 Frequency and Distributions` in week 2♥♥♥♥
