@@ -33,7 +33,9 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 해♥♥
 
 2. Corgi working on company task♥♥♥♥ #6
-    - Corgi working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #6
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+    - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+    - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
 
 3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #478
     - Corgi learning how to create algo trading strategy♥♥ #66
