@@ -23,8 +23,8 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #480
-    - Corgi learning how to create algo trading strategy♥♥ #68
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #481
+    - Corgi learning how to create algo trading strategy♥♥ #69
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
                 - Corgi learning week 3 of the course♥♥♥♥ #6
