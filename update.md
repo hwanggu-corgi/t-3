@@ -23,9 +23,9 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #24
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #16
-        - Corgi working on `Primary Care Clinic Locations`♥♥♥♥ #3
+2. Corgi working on company task♥♥♥♥ #25
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #17
+        - Corgi working on `Primary Care Clinic Locations`♥♥♥♥ #4
         - Corgi completed working on refining navigation menu♥♥♥♥
     - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
     - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
