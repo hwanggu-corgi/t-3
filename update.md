@@ -23,7 +23,14 @@ Programmers current rank: 966
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #481
+2. Corgi working on company task♥♥♥♥ #20
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #12
+        - Corgi working on `Primary Care Clinic Locations`♥♥♥♥
+        - Corgi completed working on refining navigation menu♥♥♥♥
+    - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+    - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #481
     - Corgi learning how to create algo trading strategy♥♥ #69
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
@@ -48,13 +55,6 @@ Programmers current rank: 966
     - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-
-3. [on hold] Corgi working on company task♥♥♥♥ #19
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #11
-        - Corgi working on `Primary Care Clinic Locations`♥♥♥♥
-        - Corgi completed working on refining navigation menu♥♥♥♥
-    - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
-    - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
 
 4. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
