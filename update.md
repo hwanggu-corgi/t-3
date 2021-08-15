@@ -25,7 +25,8 @@ Programmers current rank: 966
 
 2. Corgi working on company task♥♥♥♥ #36
     - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #28
-        - Corgi working on fixing missing styles in footer♥♥♥♥
+        - Corgi fixing missing desktop submenu in header♥♥♥♥
+        - Corgi completed fixing missing styles in footer♥♥♥♥
         - Corgi completed `Need care now` section♥♥♥♥
         - Corgi completed working on `Primary Care Clinic Locations`♥♥♥♥
         - Corgi completed working on refining navigation menu♥♥♥♥
