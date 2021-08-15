@@ -39,9 +39,9 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #43
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #35
-        - Corgi fixing missing desktop submenu in header♥♥♥♥ #8
+2. Corgi working on company task♥♥♥♥ #44
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #36
+        - Corgi fixing missing desktop submenu in header♥♥♥♥ #9
         - Corgi completed fixing missing styles in footer♥♥♥♥
         - Corgi completed `Need care now` section♥♥♥♥
         - Corgi completed working on `Primary Care Clinic Locations`♥♥♥♥
