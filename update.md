@@ -29,24 +29,13 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #58
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #50
-        - Corgi fixing missing desktop submenu in header♥♥♥♥ #2
-        - Corgi completed fixing missing features and styles in mobile menu in header♥♥♥♥
-            - Corgi completed fixing fonts and icon size on cellphone♥♥♥♥
-        - Corgi completed fixing missing styles in footer♥♥♥♥
-        - Corgi completed `Need care now` section♥♥♥♥
-        - Corgi completed working on `Primary Care Clinic Locations`♥♥♥♥
-        - Corgi completed working on refining navigation menu♥♥♥♥
-    - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
-    - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
-
-3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #481
-    - Corgi learning how to create algo trading strategy♥♥ #69
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #482
+    - Corgi learning how to create algo trading strategy♥♥ #70
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
-                - Corgi learning week 3 of the course♥♥♥♥ #6
-                    - Corgi learning `3.1 Population and Sampling` in week 3♥♥♥♥ #5
+                - Corgi learning week 3 of the course♥♥♥♥ #7
+                    - Corgi learning `3.2 Variation fo sample` in week 3♥♥♥♥
+                    - Corgi completed learning `3.1 Population and Sampling` in week 3♥♥♥♥
                     - Corgi completed learning `3.0 Introduction` in week 3♥♥♥♥
                 - Corgi completed learning week 2 of the course♥♥♥♥
                     - Corgi completed learning `2.3 Models of Distributions` in week 2♥♥♥♥
@@ -67,7 +56,7 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
 
-4. Corgi working on practicing docker certified associate exam♥♥ #95
+3. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
