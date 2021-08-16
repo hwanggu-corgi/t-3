@@ -29,12 +29,13 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #482
-    - Corgi learning how to create algo trading strategy♥♥ #70
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #483
+    - Corgi learning how to create algo trading strategy♥♥ #71
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
-                - Corgi learning week 3 of the course♥♥♥♥ #7
-                    - Corgi learning `3.2 Variation fo sample` in week 3♥♥♥♥
+                - Corgi learning week 3 of the course♥♥♥♥ #8
+                    - Corgi learning `3.3 Confidence Interval` in week 3♥♥♥♥
+                    - Corgi completed learning `3.2 Variation fo sample` in week 3♥♥♥♥
                     - Corgi completed learning `3.1 Population and Sampling` in week 3♥♥♥♥
                     - Corgi completed learning `3.0 Introduction` in week 3♥♥♥♥
                 - Corgi completed learning week 2 of the course♥♥♥♥
