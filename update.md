@@ -29,12 +29,12 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #502
-    - Corgi learning how to create algo trading strategy♥♥ #90
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #503
+    - Corgi learning how to create algo trading strategy♥♥ #91
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
-                - Corgi working on week 4 of the course♥♥♥♥ #5
-                    - Corgi learning `4.2 Simple Linear Regression Model` in week 4♥♥♥♥
+                - Corgi working on week 4 of the course♥♥♥♥ #6
+                    - Corgi learning `4.2 Simple Linear Regression Model` in week 4♥♥♥♥ #2
                     - Corgi completed `4.1 Association of Random Variables` in week 4♥♥♥♥
                     - Corgi completed learning `4.0 Introduction` in week 4♥♥♥♥
                 - Corgi completed week 3 of the course♥♥♥♥
