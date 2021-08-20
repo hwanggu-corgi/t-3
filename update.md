@@ -28,12 +28,12 @@ I love you my baby♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #515
-    - Corgi learning how to create algo trading strategy♥♥ #103
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #516
+    - Corgi learning how to create algo trading strategy♥♥ #104
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
-                - Corgi working on week 4 of the course♥♥♥♥ #18
-                    - Corgi learning `4.4 Multiple Linear Regression Model` in week 4♥♥♥♥
+                - Corgi working on week 4 of the course♥♥♥♥ #19
+                    - Corgi learning `4.4 Multiple Linear Regression Model` in week 4♥♥♥♥ #2
                     - Corgi completed learning `4.3 Diagnostic of linear regression model` in week 4♥♥♥♥
                     - Corgi completed learning `4.2 Simple Linear Regression Model` in week 4♥♥♥♥
                         - Corgi working on lab 4.2♥♥♥♥
