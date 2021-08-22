@@ -24,12 +24,12 @@ I love you so much my baby♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #536
-    - Corgi learning how to create algo trading strategy♥♥ #124
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #537
+    - Corgi learning how to create algo trading strategy♥♥ #125
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
-                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥
-                    - Corgi working on lesson 4 `Stock Prices`
+                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #2
+                    - Corgi working on lesson 4 `Stock Prices`♥♥♥♥ #2
                     - Corgi completed lesson 3 `Get Help with your Account`♥♥♥♥
                     - Corgi completed lesson 2 `Getting Help`♥♥♥♥
                     - Corgi completed lesson 1 `Welcome to Nanodegree program`♥♥♥♥
