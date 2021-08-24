@@ -46,17 +46,13 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #5
-    - Corgi working on `home` page in `capfsc.morwebcms.com`♥♥♥♥♥♥♥♥ #5
-        - Corgi working on creating header♥♥♥♥ #4
-
-3. [on hold] Corgi working on creating stock trading bot♥♥♥♥♥♥ #555
-    - Corgi learning how to create algo trading strategy♥♥ #142
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #556
+    - Corgi learning how to create algo trading strategy♥♥ #143
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
-                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #19
-                    - Corgi working on lesson 5 `Market Mechanics`♥♥♥♥ #11
-                        - Corgi working on `OHLC`♥♥♥♥ #4
+                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #20
+                    - Corgi working on lesson 5 `Market Mechanics`♥♥♥♥ #12
+                        - Corgi working on `OHLC`♥♥♥♥ #5
                         - Corgi completed `Liquidity`♥♥♥♥
                         - Corgi completed `Trading Stocks`♥♥♥♥
                     - Corgi completed lesson 4 `Stock Prices`♥♥♥♥
@@ -100,6 +96,10 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+
+3. [on hold] Corgi working on company task♥♥♥♥ #5
+    - Corgi working on `home` page in `capfsc.morwebcms.com`♥♥♥♥♥♥♥♥ #5
+        - Corgi working on creating header♥♥♥♥ #4
 
 4. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
