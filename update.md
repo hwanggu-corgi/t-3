@@ -46,58 +46,17 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #563
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #564
     - Corgi learning how to create algo trading strategy♥♥ #150
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
-                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #27
-                    - Corgi working on lesson 5 `Market Mechanics`♥♥♥♥ #19
+                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #28
+                    - Corgi working on lesson 5 `Market Mechanics`♥♥♥♥ #20
+                        - Corgi completed `Gaps in Market Data`♥♥♥♥
                         - Corgi completed `Volume`♥♥♥♥
                         - Corgi completed `OHLC`♥♥♥♥
                             - Corgi completed `Quiz 1: Resample Data`♥♥♥♥
-                        - Corgi completed `Liquidity`♥♥♥♥
-                        - Corgi completed `Trading Stocks`♥♥♥♥
-                    - Corgi completed lesson 4 `Stock Prices`♥♥♥♥
-                        - Corgi completed `Quiz 1: Stock Data`♥♥♥♥
-                    - Corgi completed lesson 3 `Get Help with your Account`♥♥♥♥
-                    - Corgi completed lesson 2 `Getting Help`♥♥♥♥
-                    - Corgi completed lesson 1 `Welcome to Nanodegree program`♥♥♥♥
 
-            - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
-                - Corgi completed week 4 of the course♥♥♥♥
-                    - Corgi completed `Quiz 4` in week 4♥♥♥♥
-                    - Corgi completed learning `4.5 Evaluating the Strategy` in week 4♥♥♥♥
-                    - Corgi completed learning `4.4 Multiple Linear Regression Model` in week 4♥♥♥♥
-                    - Corgi completed learning `4.3 Diagnostic of linear regression model` in week 4♥♥♥♥
-                    - Corgi completed learning `4.2 Simple Linear Regression Model` in week 4♥♥♥♥
-                        - Corgi working on lab 4.2♥♥♥♥
-                    - Corgi completed `4.1 Association of Random Variables` in week 4♥♥♥♥
-                    - Corgi completed learning `4.0 Introduction` in week 4♥♥♥♥
-                - Corgi completed week 3 of the course♥♥♥♥
-                    - Corgi completed `Quiz 3` in week 3♥♥♥♥
-                    - Corgi completed learning `3.4 Hypothesis Testing` in week 3♥♥♥♥
-                    - Corgi completed learning `3.3 Confidence Interval` in week 3♥♥♥♥
-                    - Corgi completed learning `3.2 Variation fo sample` in week 3♥♥♥♥
-                    - Corgi completed learning `3.1 Population and Sampling` in week 3♥♥♥♥
-                    - Corgi completed learning `3.0 Introduction` in week 3♥♥♥♥
-                - Corgi completed learning week 2 of the course♥♥♥♥
-                    - Corgi completed learning `2.3 Models of Distributions` in week 2♥♥♥♥
-                        - Corgi working on labs♥♥♥♥
-                            - 여보♥♥ 사랑해요♥♥♥♥♥♥
-                    - Corgi completed learning `2.2 Frequency and Distributions` in week 2♥♥♥♥
-                    - Corgi completed learning `2.1 Outcomes and Random Variables` in week 2♥♥♥♥
-                - Corgi completed learning week 1 of the course♥♥♥♥
-                    - Corgi completed learning `1.5 Trading Strategy` in week 1♥♥♥♥
-                    - Corgi completed learning `1.4 Generate new variables in Dataframe` in week 1♥♥♥♥
-                    - Corgi completed learning `1.3 Basic Structure of Dataframe` in week 1♥♥♥♥
-                    - Corgi completed learning `1.2 Importing data` in week 1♥♥♥♥
-        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
-            - https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning♥♥♥♥
-                - Corgi completed learning `Installing Python and Jupyter Notebook`♥♥♥♥
-
-    - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
-        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
-            - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
 
 3. [on hold] Corgi working on company task♥♥♥♥ #5
     - Corgi working on `home` page in `capfsc.morwebcms.com`♥♥♥♥♥♥♥♥ #5
