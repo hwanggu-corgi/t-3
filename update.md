@@ -6,6 +6,10 @@ Programmers current rank: 966
 - ( ): Attempt Toefl Test
 
 
+후잉.....♥♥♥♥♥♥♥♥♥
+
+-----
+
 우리 보물처럼 소중한
 내 재희야♥♥♥♥♥♥,
 우리 메신저에 문제가 생겼어요 O.o♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
@@ -75,12 +79,13 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #586
-    - Corgi learning how to create algo trading strategy♥♥ #171
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #587
+    - Corgi learning how to create algo trading strategy♥♥ #172
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
-                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #49
-                    - Corgi working on lesson 6 `Data Processing`♥♥♥♥ #20
+                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #50
+                    - Corgi working on lesson 6 `Data Processing`♥♥♥♥ #21
+                        - Corgi completed `Survivorship Bias`♥♥♥♥
                         - Corgi completed quiz `Trading Days`♥♥♥♥
                         - Corgi completed `Missing Values`♥♥♥♥
                         - Corgi completed `Technical Indicators`♥♥♥♥
